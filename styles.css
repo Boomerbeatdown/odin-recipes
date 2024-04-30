@@ -1,0 +1,42 @@
+*{
+    background-color: lawngreen;
+
+}
+
+li{
+    font-size: 30px;
+}
+
+#one{
+    color: black;
+    background-color: tomato;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+#two{
+    color: black;
+    background-color: darkgoldenrod;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+#three{
+    color: black;
+    background-color: tomato;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+}
